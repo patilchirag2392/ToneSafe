@@ -1,0 +1,172 @@
+{
+    "bullying": [
+        {
+            "pattern": "you're so stupid",
+            "rewrite": "I think there might be a misunderstanding here.",
+            "explanation": "Instead of attacking someone's intelligence, address the specific issue."
+        },
+        {
+            "pattern": "nobody likes you",
+            "rewrite": "I'm feeling frustrated with our interaction right now.",
+            "explanation": "Express your own feelings instead of making universal claims about someone."
+        },
+        {
+            "pattern": "you're such a loser",
+            "rewrite": "I disagree with your approach on this.",
+            "explanation": "Focus on the behavior or decision, not the person's worth."
+        },
+        {
+            "pattern": "shut up",
+            "rewrite": "I need a moment to collect my thoughts.",
+            "explanation": "Request space for yourself rather than silencing someone else."
+        },
+        {
+            "pattern": "you're worthless",
+            "rewrite": "I don't think this approach is working for either of us.",
+            "explanation": "Address the situation, not the person's value as a human being."
+        },
+        {
+            "pattern": "you're ugly",
+            "rewrite": "I'm upset right now and need to step back.",
+            "explanation": "Recognize that personal attacks on appearance come from anger, not truth."
+        },
+        {
+            "pattern": "go away nobody wants you here",
+            "rewrite": "I need some space right now. Can we talk later?",
+            "explanation": "Ask for what you need without excluding or devaluing someone."
+        },
+        {
+            "pattern": "you're pathetic",
+            "rewrite": "I'm disappointed with how this situation turned out.",
+            "explanation": "Express disappointment about circumstances rather than attacking character."
+        }
+    ],
+    "hate_speech": [
+        {
+            "pattern": "people like you don't belong here",
+            "rewrite": "I have a different perspective on this topic.",
+            "explanation": "Everyone belongs. Disagree with ideas, not someone's right to exist in a space."
+        },
+        {
+            "pattern": "go back to where you came from",
+            "rewrite": "I'd like to understand your perspective better.",
+            "explanation": "Curiosity about differences builds bridges. Rejection builds walls."
+        },
+        {
+            "pattern": "your kind is the problem",
+            "rewrite": "I think the real issue here is...",
+            "explanation": "Blaming a group for individual problems prevents real solutions."
+        },
+        {
+            "pattern": "you people are all the same",
+            "rewrite": "I've had a different experience, and I'd like to share it.",
+            "explanation": "Generalizing about any group erases individual humanity."
+        },
+        {
+            "pattern": "that's so gay",
+            "rewrite": "I don't like that / That's not for me.",
+            "explanation": "Using identity as an insult hurts everyone with that identity."
+        }
+    ],
+    "manipulation": [
+        {
+            "pattern": "if you really loved me you would",
+            "rewrite": "This is important to me. Can we talk about it?",
+            "explanation": "Express needs directly instead of testing someone's love through demands."
+        },
+        {
+            "pattern": "after everything I've done for you",
+            "rewrite": "I feel like the effort in our relationship isn't balanced. Can we discuss this?",
+            "explanation": "Keeping score creates debt. Healthy relationships communicate needs openly."
+        },
+        {
+            "pattern": "no one else would put up with you",
+            "rewrite": "I'm feeling overwhelmed in our relationship right now.",
+            "explanation": "Express your feelings without undermining someone's sense of self-worth."
+        },
+        {
+            "pattern": "you're making me act this way",
+            "rewrite": "When this happens, I feel frustrated and I react badly.",
+            "explanation": "Own your reactions. No one 'makes' you behave a certain way."
+        },
+        {
+            "pattern": "I guess I'll just suffer alone",
+            "rewrite": "I'm going through a hard time and could really use your support.",
+            "explanation": "Ask for help directly instead of using guilt to get attention."
+        },
+        {
+            "pattern": "you owe me",
+            "rewrite": "I'd really appreciate your help with this.",
+            "explanation": "Favors aren't transactions. Ask with respect, not obligation."
+        },
+        {
+            "pattern": "everyone agrees with me",
+            "rewrite": "I feel strongly about this. Here's why...",
+            "explanation": "Speak for yourself rather than recruiting invisible supporters."
+        },
+        {
+            "pattern": "you're too sensitive",
+            "rewrite": "I didn't realize that would hurt you. Can you help me understand?",
+            "explanation": "Validate their feelings instead of dismissing them."
+        },
+        {
+            "pattern": "I never said that",
+            "rewrite": "I might have said something different than what I meant. Let me clarify.",
+            "explanation": "Be open to the possibility that your words landed differently than intended."
+        }
+    ],
+    "passive_aggression": [
+        {
+            "pattern": "must be nice",
+            "rewrite": "I'm feeling a bit envious — I wish I could do that too.",
+            "explanation": "Name the real feeling (envy, frustration) instead of disguising it as sarcasm."
+        },
+        {
+            "pattern": "I'm fine everything's fine",
+            "rewrite": "Actually, I'm not okay. Here's what's bothering me...",
+            "explanation": "Saying 'I'm fine' when you're not blocks real communication."
+        },
+        {
+            "pattern": "no worries I'll do it myself",
+            "rewrite": "I could really use help with this. Would you be able to?",
+            "explanation": "Ask for help directly instead of martyring yourself."
+        },
+        {
+            "pattern": "I'm not mad I just think it's funny",
+            "rewrite": "I'm actually upset about this and I'd like to talk about it.",
+            "explanation": "Labeling anger as humor prevents the real issue from being resolved."
+        },
+        {
+            "pattern": "thanks for finally doing it",
+            "rewrite": "Thank you for doing this, I appreciate it.",
+            "explanation": "Gratitude without sarcasm reinforces positive behavior."
+        },
+        {
+            "pattern": "sure whatever you say",
+            "rewrite": "I have a different opinion. Can I share it?",
+            "explanation": "Dismissive agreement hides real disagreement. Voice it constructively."
+        },
+        {
+            "pattern": "I mean I would have done it differently",
+            "rewrite": "Have you considered this approach? I think it might work well because...",
+            "explanation": "Offer alternatives with reasoning instead of veiled criticism."
+        },
+        {
+            "pattern": "interesting choice",
+            "rewrite": "That's different from what I expected — what was your thinking?",
+            "explanation": "Ask questions with genuine curiosity instead of disguised judgment."
+        }
+    ],
+    "fallback": [
+        {
+            "pattern": "generic_harmful",
+            "rewrite": "I'm feeling frustrated right now. Can we take a step back and talk about this calmly?",
+            "explanation": "When emotions run high, pausing and naming the feeling is always a strong first step."
+        },
+        {
+            "pattern": "generic_harmful_2",
+            "rewrite": "I want to express how I feel without hurting you. Here's what's on my mind...",
+            "explanation": "Leading with intention ('I don't want to hurt you') sets a collaborative tone."
+        }
+    ]
+}
