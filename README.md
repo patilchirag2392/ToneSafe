@@ -14,7 +14,7 @@ Everything runs entirely on-device. No servers. No data leaves your phone.
 Type or paste any message and ToneSafe classifies it into one of five categories – bullying, hate speech, manipulation, passive aggression, or healthy – with a confidence score, sentiment analysis, and highlighted trigger words.
 
 ### Empathy Mode
-The standout feature. After analysis, tap "Feel the Impact" to experience a cinematic visualization of how harmful words feel to the recipient. The screen darkens, particles float, the text grows heavier — and then the words shatter apart. Designed to make you pause before hitting send.
+The standout feature. After analysis, tap "Feel the Impact" to experience a cinematic visualization of how harmful words feel to the recipient. The screen darkens, particles float, the text grows heavier – and then the words shatter apart. Designed to make you pause before hitting send.
 
 ### Rewrite Engine
 Every harmful message gets a healthier rewrite that preserves the original intent. Side-by-side before/after comparison with an explanation of what changed and why it works.
@@ -93,11 +93,11 @@ The classifier is supplemented by `NLTagger` sentiment analysis and keyword patt
 
 ToneSafe uses a custom design system ("Empathetic Minimalism") built to feel warm and human:
 
-- **Warm cream background** (`#FAF7F2`) instead of pure white — feels approachable, not clinical
+- **Warm cream background** (`#FAF7F2`) instead of pure white – feels approachable, not clinical
 - **Single bold accent** (deep electric blue) for all interactive elements
 - **Serif typography** in emotional moments (Empathy Mode), rounded sans-serif elsewhere
-- **Muted semantic colors** — sage green (healthy), amber (caution), burnt orange (warning), deep red (danger), plum (severe)
-- **Forced light mode** — the app's visual identity is built around the warm palette
+- **Muted semantic colors** – sage green (healthy), amber (caution), burnt orange (warning), deep red (danger), plum (severe)
+- **Forced light mode** – the app's visual identity is built around the warm palette
 - **Haptic feedback** at every meaningful interaction
 
 ---
